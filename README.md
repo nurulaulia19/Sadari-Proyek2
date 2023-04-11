@@ -1,11 +1,11 @@
-DESKRIPSI
+DESKRIPSI : 
 
 Aplikasi SADARI merupakan aplikasi yang dirancang untuk membantu pengguna melakukan pemeriksaan kesehatan secara mandiri, terutama untuk mendeteksi dini adanya gejala-gejala yang mungkin berkaitan dengan kondisi kesehatan tertentu, seperti kanker atau penyakit lainnya.
 
 Aplikasi ini menyediakan fitur-fitur seperti kuis kesehatan untuk membantu pengguna menilai risiko terkena penyakit, daftar gejala dan tanda-tanda penyakit yang perlu diperhatikan, serta instruksi tentang cara melakukan pemeriksaan sendiri.
 
 
-SPESIFIKASI DAN KEBUTUHAN SOFTWARE
+SPESIFIKASI DAN KEBUTUHAN SOFTWARE: 
 Laravel Versi 9.0
 PHP Versi 8.0.2
 MySQL Versi 10.4.22
@@ -14,7 +14,7 @@ Tailwindcss: 3.2.4
 Node JS Versi 18.15.0
 
 
-CARA INSTALL
+CARA INSTALL :
 Installasi SADARI dari GitHub
 
 - Pertama-tama, pastikan bahwa Anda memiliki perangkat lunak Git terbaru diinstal di komputer Anda. Anda dapat mengunduh dan menginstal Git dari situs web resmi mereka di https://git-scm.com/downloads.
@@ -41,7 +41,7 @@ Installasi SADARI dari GitHub
 
     php artisan migrate
 
-Perintah ini akan menjalankan semua migrasi yang diperlukan untuk membuat tabel-tabel di basis data Anda.
+   Perintah ini akan menjalankan semua migrasi yang diperlukan untuk membuat tabel-tabel di basis data Anda.
 
 - Setelah migrasi selesai, jalankan perintah berikut untuk mengisi data awal ke dalam tabel:
 
@@ -61,7 +61,7 @@ Perintah ini akan menjalankan semua migrasi yang diperlukan untuk membuat tabel-
 
 
 
-INFO CREDENTIALS
+INFO CREDENTIALS :   
 Email : admin@sadari.test
         superadmin@sadari.test
         omjhello0@gmail.com
